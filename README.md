@@ -1,6 +1,7 @@
 # Theoretical Proposal for Dynamic Attention Sinks in Streaming Large Language Models
 
 > **Note**: This proposal is theoretical and aims to extend existing concepts for further research and validation.
+> **Disclaimer**: The author of this proposal is reasonably new to the area of Large Language Models and attention mechanisms. This idea was formed while reviewing the paper "Efficient Streaming Language Models with Attention Sinks."
 
 ## Table of Contents
 1. [Introduction](#introduction)
