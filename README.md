@@ -65,3 +65,6 @@ The StreamingLLM framework keeps the Key and Value states (KV) of initial tokens
 ## Conclusion and Future Work
 
 The proposed dynamic attention sink mechanism offers a balanced approach to managing the computational and memory resources in streaming LLMs. Future work will involve the empirical validation of this theoretical approach to assess its effectiveness and efficiency.
+
+## References
+- https://arxiv.org/abs/2309.17453
