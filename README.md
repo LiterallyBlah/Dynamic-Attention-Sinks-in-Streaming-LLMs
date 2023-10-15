@@ -10,6 +10,7 @@
 5. [Challenges and Considerations](#challenges-and-considerations)
    - [Influence of Initial Static Attention Sinks](#influence-of-initial-static-attention-sinks)
 6. [Conclusion and Future Work](#conclusion-and-future-work)
+7. [References](#References)
 
 ## Introduction
 
